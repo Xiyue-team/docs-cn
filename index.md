@@ -4,7 +4,7 @@ keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: 助你了解并迅速开启火花之旅.
+summary: 助你迅速了解火花.
 ---
 
 
