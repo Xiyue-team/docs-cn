@@ -1,6 +1,6 @@
 ---
 title: 纸质教科书
-tags: [getting_started, troubleshooting]
+tags: [skills]
 keywords:
 summary: "AR课堂"
 sidebar: mydoc_sidebar

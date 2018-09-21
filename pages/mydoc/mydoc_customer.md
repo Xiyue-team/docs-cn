@@ -1,6 +1,6 @@
 ---
 title: 合作案例
-tags: [getting_started, troubleshooting]
+tags: [Collaboration]
 keywords:
 summary: "良好合作"
 sidebar: mydoc_sidebar
