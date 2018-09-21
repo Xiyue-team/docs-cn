@@ -3,13 +3,13 @@
 # In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
   - getting_started
-  - content_types
+  - skills
   - navigation
   - formatting
   - publishing
   - single_sourcing
   - special_layouts
-  - collaboration
+  - helping
   - news
   - troubleshooting
   - mobile
