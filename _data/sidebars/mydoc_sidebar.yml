@@ -19,9 +19,12 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: 关于火花学院
+  - title: 欢迎来到火花学院
     output: web, pdf
     folderitems:
+    - title: 关于火花学院
+      url: /index.html
+      output: web, pdf
 
   - title: 下载与安装
     output: web, pdf
