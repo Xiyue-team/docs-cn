@@ -1,5 +1,5 @@
 ---
-title: "关于火花学院"
+title: "欢迎来到火花学院"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
