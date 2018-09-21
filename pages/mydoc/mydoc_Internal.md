@@ -1,6 +1,6 @@
 ---
 title: 内部用户分享
-tags: [getting_started, troubleshooting]
+tags: [shareing, troubleshooting]
 keywords:
 summary: "检索用户"
 sidebar: mydoc_sidebar

@@ -1,6 +1,6 @@
 ---
 title: 查找与预览
-tags: [getting_started, troubleshooting]
+tags: [getting_started, skills]
 keywords:
 summary: "两种检索方式"
 sidebar: mydoc_sidebar

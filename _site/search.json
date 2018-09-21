@@ -29,7 +29,7 @@
 
 {
 "title": "社交平台分享",
-"tags": "getting_startedtroubleshooting",
+"tags": "shareingtroubleshooting",
 "keywords": "",
 "url": "mydoc_External.html",
 "summary": "一键分享"
@@ -40,7 +40,7 @@
 
 {
 "title": "FAQs",
-"tags": "getting_startedtroubleshooting",
+"tags": "skillstroubleshooting",
 "keywords": "",
 "url": "mydoc_FAQs.html.html",
 "summary": "集合"
@@ -51,7 +51,7 @@
 
 {
 "title": "内部用户分享",
-"tags": "getting_startedtroubleshooting",
+"tags": "shareingtroubleshooting",
 "keywords": "",
 "url": "mydoc_Internal.html",
 "summary": "检索用户"
@@ -95,7 +95,7 @@
 
 {
 "title": "软件下载",
-"tags": "getting_startedtroubleshooting",
+"tags": "getting_started",
 "keywords": "",
 "url": "mydoc_download.html",
 "summary": "多终端多系统适应"
@@ -106,7 +106,7 @@
 
 {
 "title": "数字教科书",
-"tags": "getting_startedtroubleshooting",
+"tags": "skillstroubleshooting",
 "keywords": "",
 "url": "mydoc_ebooks.html",
 "summary": "多场景适用"
@@ -117,7 +117,7 @@
 
 {
 "title": "桌面端编辑器",
-"tags": "getting_startedtroubleshooting",
+"tags": "getting_started",
 "keywords": "",
 "url": "mydoc_editor.html",
 "summary": "功能更新"
@@ -139,7 +139,7 @@
 
 {
 "title": "移动端播放器",
-"tags": "getting_startedtroubleshooting",
+"tags": "getting_started",
 "keywords": "",
 "url": "mydoc_player.html",
 "summary": "功能更新"
@@ -172,7 +172,7 @@
 
 {
 "title": "查找与预览",
-"tags": "getting_startedtroubleshooting",
+"tags": "getting_startedskills",
 "keywords": "",
 "url": "mydoc_searching.html",
 "summary": "两种检索方式"
@@ -205,7 +205,7 @@
 
 {
 "title": "火花学院有哪些资源",
-"tags": "getting_startedtroubleshooting",
+"tags": "getting_started",
 "keywords": "",
 "url": "mydoc_sources.html",
 "summary": "火花精品"

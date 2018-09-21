@@ -1,6 +1,6 @@
 ---
 title: 数字教科书
-tags: [getting_started, troubleshooting]
+tags: [skills, troubleshooting]
 keywords:
 summary: "多场景适用"
 sidebar: mydoc_sidebar

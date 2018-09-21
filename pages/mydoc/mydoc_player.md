@@ -1,6 +1,6 @@
 ---
 title: 移动端播放器
-tags: [getting_started, troubleshooting]
+tags: [getting_started]
 keywords:
 summary: "功能更新"
 sidebar: mydoc_sidebar

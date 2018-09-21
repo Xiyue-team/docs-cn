@@ -1,6 +1,6 @@
 ---
 title: FAQs
-tags: [getting_started, troubleshooting]
+tags: [skills, troubleshooting]
 keywords:
 summary: "集合"
 sidebar: mydoc_sidebar

@@ -1,6 +1,6 @@
 ---
 title: 火花学院有哪些资源
-tags: [getting_started, troubleshooting]
+tags: [getting_started]
 keywords:
 summary: "火花精品"
 sidebar: mydoc_sidebar

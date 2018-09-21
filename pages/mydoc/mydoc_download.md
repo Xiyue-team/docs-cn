@@ -1,6 +1,6 @@
 ---
 title: 软件下载
-tags: [getting_started, troubleshooting]
+tags: [getting_started]
 keywords:
 summary: "多终端多系统适应"
 sidebar: mydoc_sidebar
