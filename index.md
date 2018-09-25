@@ -2,6 +2,7 @@
 title: "欢迎来到火花学院"
 keywords: sample homepage
 tags: [getting_started]
+type: first_page
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: 助你迅速了解火花.
