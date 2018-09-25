@@ -17,6 +17,4 @@ defaults:
       comments: true
       search: true
 
-{% if site.product == "mydoc" %}
-pdf_sidebar: product2_sidebar
-{% endif %}
+pdf_sidebar: mydoc_sidebar
