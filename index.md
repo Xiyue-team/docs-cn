@@ -8,6 +8,7 @@ permalink: index.html
 summary: 助你迅速了解火花.
 ---
 
+<a target="_blank" class="noCrossRef" href="/pdf/火花学院用户手册.pdf"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
 
 ## 火花学院是什么   
 &ensp;&ensp;&ensp;&ensp;火花学院以新媒体（AR/VR、Widget、三维动画）交互式学科动态资源为基础，搭载简单易用的教学端工具，使知识呈现可视化，课堂交互立体化，学习过程社群化，帮助学生们实现科学大概念的构建。   
