@@ -123,16 +123,16 @@ entries:
       output: web, pdf
 
   - title: 典型案例
-    output: web, pdf
+    output: web
 
     folderitems:
     - title: 经典场景
       url: /mydoc_scene.html
-      output: web, pdf
+      output: web
 
     - title: 合作案例
       url: /mydoc_customer.html
-      output: web, pdf      
+      output: web      
 
   - title: 版本发布历史
     output: web
