@@ -8,6 +8,6 @@ permalink: mydoc_player.html
 folder: mydoc
 ---
 
-## 移动端播放器
+## 移动端
 
 &ensp;&ensp;&ensp;&ensp;
