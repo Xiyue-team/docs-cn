@@ -3,10 +3,10 @@ repository: Xiyue-team/docs-cn
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: 火花学院用户手册
+topnav_title: 火花学院帮助中心
 # this appears on the top navigation bar next to the home button
 
-site_title: 火花学院用户手册
+site_title: 火花学院
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: 习悦
