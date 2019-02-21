@@ -11,10 +11,11 @@ summary: 助你迅速了解火花.
 <a target="_blank" class="noCrossRef" href="/pdf/mydoc.pdf"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
 
 ## 火花学院是什么   
-&ensp;&ensp;&ensp;&ensp;火花学院以新媒体（AR/VR、Widget、三维动画）交互式学科动态资源为基础，搭载简单易用的教学端工具，使知识呈现可视化，课堂交互立体化，学习过程社群化，帮助学生们实现科学大概念的构建。   
+&ensp;&ensp;&ensp;&ensp;火花学院是科学可视化教学内容及工具库。
+&ensp;&ensp;&ensp;&ensp;火花学院致力于帮助学生“看见”那些难以“见到”的科学场景和概念，提供各种可视化内容与工具来帮助学生构建心智模型，这些可视化工具包括图片、动画、视频、三维模型、增强现实和虚拟现实等。同时，这些内容与工具也能够帮助教师平衡课堂上语言信息与视觉信息的比例，提升课堂教学效率。
 ## 火花学院有什么   
-&ensp;&ensp;&ensp;&ensp;在这里，老师可轻松找到生动、科学的教学资源，制作精美的课件与微课，创造趣味十足的课堂，并与师生们共同分享。   
-## 产品架构   
-&ensp;&ensp;&ensp;&ensp;IP级教学资源库+教学工具库+分享空间
+&ensp;&ensp;&ensp;&ensp;在这里，老师可轻松找到精美的科学可视化内容，以及制作精美的课件与微课的轻便工具，创造趣味十足的课堂，并与师生们共同分享。   
+
+
 
 
