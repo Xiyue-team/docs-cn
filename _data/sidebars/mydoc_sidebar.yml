@@ -62,7 +62,7 @@ entries:
       url: /mydoc_searching.html
       output: web, pdf
       
-  - title: 数字教学参考书操作
+  - title: 数字教学参考书的操作
     output: web, pdf
 
     folderitems:
@@ -86,7 +86,7 @@ entries:
       url: /mydoc_sliding.html
       output: web, pdf
    
-  - title: 如何录制一堂火花微课
+  - title: 如何录制火花微课
     output: web, pdf
 
     folderitems:
