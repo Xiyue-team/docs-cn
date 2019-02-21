@@ -62,15 +62,23 @@ entries:
       url: /mydoc_searching.html
       output: web, pdf
       
-    - title: 内容管理
-      url: /mydoc_searching.html
-      output: web, pdf
-    
-  - title: 可视化工具应用
+  - title: 数字教学参考书操作
     output: web, pdf
 
     folderitems:
-    - title: 火花课件制作指南
+    - title: 电子版操作
+      url: /mydoc_ebooks.html
+      output: web, pdf
+
+    - title: 纸质版操作
+      url: /mydoc_books.html
+      output: web, pdf
+    
+  - title: 如何制作火花课件
+    output: web, pdf
+
+    folderitems:
+    - title: 火花课件制作
       url: /mydoc_slide.html
       output: web, pdf
 
@@ -92,18 +100,6 @@ entries:
 
     - title: 微课管理
       url: /mydoc_management.html
-      output: web, pdf
-
-  - title: 火花数字教学参考书
-    output: web, pdf
-
-    folderitems:
-    - title: 电子版操作
-      url: /mydoc_ebooks.html
-      output: web, pdf
-
-    - title: 纸质版操作
-      url: /mydoc_books.html
       output: web, pdf
 
   - title: 资源分享
