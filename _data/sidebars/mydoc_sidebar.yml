@@ -78,11 +78,11 @@ entries:
     output: web, pdf
 
     folderitems: 
-    - title: 火花课件制作
+    - title: 火花课件的编辑
       url: /mydoc_slide.html
       output: web, pdf
 
-    - title: 如何使课件更精美
+    - title: 制作精美的火花课件
       url: /mydoc_sliding.html
       output: web, pdf
    
