@@ -50,7 +50,7 @@ entries:
       url: /mydoc_Password.html
       output: web, pdf
 
-  - title: 可视化资源使用
+  - title: 可视化内容使用
     output: web, pdf
 
     folderitems:
@@ -74,11 +74,11 @@ entries:
       url: /mydoc_books.html
       output: web, pdf
     
-  - title: 如何制作火花课件
+  - title: 火花课件制作
     output: web, pdf
 
-    folderitems:
-    - title: 火花课件制作
+    folderitems: 
+    - title: 如何制作火花课件
       url: /mydoc_slide.html
       output: web, pdf
 
