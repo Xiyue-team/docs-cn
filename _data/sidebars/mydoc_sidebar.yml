@@ -26,11 +26,11 @@ entries:
       url: /index.html
       output: web, pdf
 
-  - title: 下载与安装
+  - title: 基本操作
     output: web, pdf
     folderitems:
 
-    - title: 软件获取
+    - title: 软件下载与安装
       url: /mydoc_download.html
       output: web, pdf
 
@@ -50,27 +50,31 @@ entries:
       url: /mydoc_Password.html
       output: web, pdf
 
-  - title: 如何找到想要的资源
+  - title: 可视化资源使用
     output: web, pdf
 
     folderitems:
-    - title: 火花学院有哪些资源
+    - title: 火花学院有哪些科学可视化内容
       url: /mydoc_sources.html
       output: web, pdf
 
     - title: 查找与预览
       url: /mydoc_searching.html
       output: web, pdf
+      
+    - title: 内容管理
+      url: /mydoc_searching.html
+      output: web, pdf
     
-  - title: 如何制作课件
+  - title: 可视化工具应用
     output: web, pdf
 
     folderitems:
-    - title: 课件制作指南
+    - title: 火花课件制作指南
       url: /mydoc_slide.html
       output: web, pdf
 
-    - title: 让你的课件趣味十足
+    - title: 如何制作精美课件
       url: /mydoc_sliding.html
       output: web, pdf
    
@@ -90,15 +94,15 @@ entries:
       url: /mydoc_management.html
       output: web, pdf
 
-  - title: 新媒体专题教材
+  - title: 火花数字教学参考书
     output: web, pdf
 
     folderitems:
-    - title: 数字教科书
+    - title: 电子版操作
       url: /mydoc_ebooks.html
       output: web, pdf
 
-    - title: 纸质教科书
+    - title: 纸质版操作
       url: /mydoc_books.html
       output: web, pdf
 
@@ -121,28 +125,17 @@ entries:
     - title: 常见问题
       url: /mydoc_FAQs.html.html
       output: web, pdf
-
-  - title: 典型案例
-    output: web
-
-    folderitems:
-    - title: 经典场景
-      url: /mydoc_scene.html
-      output: web
-
-    - title: 合作案例
-      url: /mydoc_customer.html
-      output: web      
+      
 
   - title: 版本发布历史
     output: web
 
     folderitems:
-    - title: 桌面端编辑器
+    - title: 桌面端
       url: /mydoc_editor.html
       output: web
 
-    - title: 移动端播放器
+    - title: 移动端
       url: /mydoc_player.html
       output: web
      
