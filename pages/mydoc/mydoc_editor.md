@@ -8,6 +8,5 @@ permalink: mydoc_editor.html
 folder: mydoc
 ---
 
-## 桌面端编辑器
-
+## 桌面端
 &ensp;&ensp;&ensp;&ensp;
