@@ -4,7 +4,7 @@ topnav:
 - title: 导航
   items:
     - title: 官网
-      external_url: https://huohua-prod.ustcnmi.org/
+      external_url: https://www.huohuaschool.com
     - title: 新闻
       url: /news
 
