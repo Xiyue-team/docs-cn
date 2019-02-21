@@ -8,8 +8,6 @@ permalink: index.html
 summary: 助你迅速了解火花.
 ---
 
-<a target="_blank" class="noCrossRef" href="/pdf/mydoc.pdf"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
-
 ## 火花学院是什么   
 &ensp;&ensp;&ensp;&ensp;火花学院是科学可视化教学内容及工具库。
 &ensp;&ensp;&ensp;&ensp;火花学院致力于帮助学生“看见”那些难以“见到”的科学场景和概念，提供各种可视化内容与工具来帮助学生构建心智模型，这些可视化工具包括图片、动画、视频、三维模型、增强现实和虚拟现实等。同时，这些内容与工具也能够帮助教师平衡课堂上语言信息与视觉信息的比例，提升课堂教学效率。
