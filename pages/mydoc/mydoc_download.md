@@ -21,4 +21,6 @@ folder: mydoc
 
 &ensp;&ensp;&ensp;&ensp;运行环境：Mac OS   
 
-- 火花学院移动端至安卓应用市场或苹果App Store搜索“火花学院”，下载安装即可。
+- 火花学院移动端
+
+&ensp;&ensp;&ensp;&ensp;至安卓应用市场或苹果App Store搜索“火花学院”，下载安装即可。
