@@ -11,4 +11,4 @@ folder: mydoc
 ## 创建账户
 &#160; &#160; &#160; &#160;软件安装成功后，打开桌面端，点击下方“注册账户”进入创建界面，输入“手机号码”、获取并输入“验证码”、并设置“密码”后，单击“注册并登陆”即可。
 
-![avatar](https://xiyue-team.github.io/docs/image/0001register.png)
+![avatar](https://github.com/Xiyue-team/docs-cn/blob/gh-pages/pages/images/0001register.png)
