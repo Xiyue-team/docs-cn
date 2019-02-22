@@ -14,7 +14,8 @@ folder: mydoc
 
 - [火花学院 Windows版2.8.1 64位](http://huohua-install.huohuaschool.com/win64/huohua_v2.8.1_win64.exe)  
 - [火花学院 Windows版2.8.1 32位](http://huohua-install.huohuaschool.com/win32/huohua_v2.8.1_win32.exe) 
-&ensp;&ensp;&ensp;&ensp;1运行环境：windows7/8/10   
+
+&ensp;&ensp;&ensp;&ensp;运行环境：windows7/8/10   
 
 - [火花学院 Mac版2.5.0](http://huohua-install.huohuaschool.com/mac/huohua_v2.8.1.dmg)   
 &ensp;&ensp;&ensp;&ensp;1运行环境：Mac OS   
