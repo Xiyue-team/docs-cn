@@ -17,7 +17,8 @@ folder: mydoc
 
 &ensp;&ensp;&ensp;&ensp;运行环境：windows7/8/10   
 
-- [火花学院 Mac版2.5.0](http://huohua-install.huohuaschool.com/mac/huohua_v2.8.1.dmg)   
-&ensp;&ensp;&ensp;&ensp;1运行环境：Mac OS   
+- [火花学院 Mac版2.5.0](http://huohua-install.huohuaschool.com/mac/huohua_v2.8.1.dmg) 
+
+&ensp;&ensp;&ensp;&ensp;运行环境：Mac OS   
 
 - 火花学院移动端至安卓应用市场或苹果App Store搜索“火花学院”，下载安装即可。
