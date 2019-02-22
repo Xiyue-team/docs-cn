@@ -8,7 +8,7 @@ permalink: mydoc_player.html
 folder: mydoc
 ---
 
-## 移动端
+## 版本发布历史
 
 ### V2.4.1
 
