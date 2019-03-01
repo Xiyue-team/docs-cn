@@ -21,7 +21,23 @@ folder: mydoc
 ![avatar](images/0006课件编辑02.png)
 
 ### 新建镜头
+
+&ensp;&ensp;&ensp;&ensp;点击“新建”，则可以新建镜头，镜头对应的是课件的每一页。选定全景图中某一页，可进行拖动，单页之间的位置反应内容之间的逻辑关系。
+
+![avatar](images/0006课件编辑03.png)
+
 ### 添加元素
+
+&ensp;&ensp;&ensp;&ensp;1.点击左侧镜头（分页）进入镜头。
+
+&ensp;&ensp;&ensp;&ensp;2.点击工具栏，可添加不同类型的元素。
+
+&ensp;&ensp;&ensp;&ensp;3.选定单个元素，右侧可进行相应属性编辑。
+
+![avatar](images/0006课件编辑04.png)
+
+
+
 ### 课件播放
 
 
