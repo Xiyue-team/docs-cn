@@ -38,12 +38,19 @@ folder: mydoc
 
 ### 添加素材
 
-&ensp;&ensp;&ensp;&ensp;1.老师想在镜头（分页）内右上角素材库中，检索到所需素材，可拖拽到镜头内，素材支持预览。
+&ensp;&ensp;&ensp;&ensp;1.在镜头（分页）内右上角素材库中，检索到所需素材，可拖拽到镜头内，素材支持预览。
 
 &ensp;&ensp;&ensp;&ensp;2.支持素材在镜头内的属性编辑。
 
 ![avatar](images/0006课件编辑05.png)
 
-### 课件播放
+### 课件预览
 
+&ensp;&ensp;&ensp;&ensp;点击左上角播放按钮，可实时预览效果。
+
+![avatar](images/0006课件编辑06.png)
+
+### 课件保存
+
+&ensp;&ensp;&ensp;&ensp;制作完成后，关闭编辑界面自动保存。
 
