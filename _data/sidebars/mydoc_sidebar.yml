@@ -106,12 +106,8 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: 内部用户分享
-      url: /mydoc_Internal.html
-      output: web, pdf
-
     - title: 社交平台分享
-      url: /mydoc_External.html
+      url: /mydoc_Sharing.html
       output: web, pdf
 
   - title: FAQs
