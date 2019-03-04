@@ -106,7 +106,7 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: 社交平台分享
+    - title: 分享范围及路径
       url: /mydoc_Sharing.html
       output: web, pdf
 
