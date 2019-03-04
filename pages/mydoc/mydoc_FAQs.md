@@ -4,7 +4,7 @@ tags: [skills, troubleshooting]
 keywords:
 summary: "集合"
 sidebar: mydoc_sidebar
-permalink: mydoc_FAQs.html.html
+permalink: mydoc_FAQs.html
 folder: mydoc
 ---
 

@@ -115,7 +115,7 @@ entries:
 
     folderitems:
     - title: 常见问题
-      url: /mydoc_FAQs.html.html
+      url: /mydoc_FAQs.html
       output: web, pdf
       
 
