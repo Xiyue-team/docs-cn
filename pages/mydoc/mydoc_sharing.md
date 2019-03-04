@@ -1,10 +1,10 @@
 ---
 title: 社交平台分享
-tags: [shareing, troubleshooting]
+tags: [sharing, troubleshooting]
 keywords:
 summary: "一键分享"
 sidebar: mydoc_sidebar
-permalink: mydoc_External.html
+permalink: mydoc_Sharing.html
 folder: mydoc
 ---
 
