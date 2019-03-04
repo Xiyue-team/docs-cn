@@ -8,7 +8,7 @@ permalink: mydoc_Sharing.html
 folder: mydoc
 ---
 
-## 社交平台分享
+## 分享范围及路径
 
 ### 可分享范围
 
