@@ -1,6 +1,6 @@
 ---
 title: 数字教科书
-tags: [skills, troubleshooting]
+tags: [skills]
 keywords:
 summary: "多场景适用"
 sidebar: mydoc_sidebar
@@ -19,7 +19,7 @@ folder: mydoc
 
 ![avatar](images/0005找到数字教科书1.png)
 
-![avatar](images/0005找到数字教科书2.png)
+![avatar](images/0005找到数字教科书3.png)
 
 &#160; &#160; &#160; &#160;单击进入数字教科书。
 
