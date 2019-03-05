@@ -1,5 +1,5 @@
 ---
-title: 电子版使用
+title: 电子版数字教参
 tags: [skills]
 keywords:
 summary: "多场景适用"
@@ -8,7 +8,7 @@ permalink: mydoc_ebooks.html
 folder: mydoc
 ---
 
-## 电子版使用
+## 电子版操作
 
 ### 如何获取教材
 
