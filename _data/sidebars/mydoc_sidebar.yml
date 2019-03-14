@@ -30,13 +30,10 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: 软件下载与安装
+    - title: 安装与更新
       url: /mydoc_download.html
       output: web, pdf
 
-    - title: 软件更新
-      url: /mydoc_updates.html
-      output: web, pdf
 
   - title: 账户管理
     output: web, pdf
