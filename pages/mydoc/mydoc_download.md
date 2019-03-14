@@ -1,5 +1,5 @@
 ---
-title: 软件下载
+title: 安装与更新
 tags: [getting_started]
 keywords:
 summary: "多终端多系统适应"
